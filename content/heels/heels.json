@@ -1,0 +1,112 @@
+[
+{
+    "id": 14,
+    "name": "Pumps",
+    "onSale": true,
+    "tags": ["Sneakers", "Wanita"],
+    "image": "https://images.pexels.com/photos/1942879/pexels-photo-1942879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 15,
+    "name": "Stiletto",
+    "onSale": false,
+    "tags": ["Sneakers", "Pria"],
+    "image": "https://images.pexels.com/photos/137603/pexels-photo-137603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 16,
+    "name": "Kitten Heels",
+    "onSale": false,
+    "tags": ["Sneakers", "Pria", "Wanita"],
+    "image": "https://images.pexels.com/photos/2285500/pexels-photo-2285500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 17,
+    "name": "Ankle Boots",
+    "onSale": false,
+    "tags": ["Sneakers", "Pria", "Wanita"],
+    "image": "https://images.pexels.com/photos/977908/pexels-photo-977908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 18,
+    "name": "T-straps",
+    "onSale": false,
+    "tags": ["Sneakers", "Pria", "Wanita"],
+    "image": "https://images.pexels.com/photos/1507351/pexels-photo-1507351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 19,
+    "name": "Wedges",
+    "onSale": false,
+    "tags": ["Sneakers", "Pria", "Wanita"],
+    "image": "https://images.pexels.com/photos/6540947/pexels-photo-6540947.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 20,
+    "name": "Cone Heels",
+    "onSale": true,
+    "tags": ["Sneakers", "Pria", "Wanita"],
+    "image": "https://images.pexels.com/photos/949590/pexels-photo-949590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 21,
+    "name": "Gladiator Shoes",
+    "onSale": false,
+    "tags": ["Sneakers", "Pria", "Wanita"],
+    "image": "https://images.pexels.com/photos/1537671/pexels-photo-1537671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 22,
+    "name": "Gladitor Boots",
+    "onSale": false,
+    "tags": ["Sneakers", "Pria", "Wanita"],
+    "image": "https://images.pexels.com/photos/1501210/pexels-photo-1501210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 23,
+    "name": "Sling Back Heels",
+    "onSale": false,
+    "tags": ["Sneakers", "Pria", "Wanita"],
+    "image": "https://images.pexels.com/photos/336372/pexels-photo-336372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  }
+  ]

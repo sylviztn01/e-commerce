@@ -1,0 +1,124 @@
+[
+{
+    "id": 24,
+    "name": "Ballerina Flats",
+    "onSale": false,
+    "tags": ["Sneakers", "Pria", "Wanita"],
+    "image": "https://images.pexels.com/photos/5149559/pexels-photo-5149559.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 25,
+    "name": "Oxfords",
+    "onSale": false,
+    "tags": ["Sneakers", "Pria", "Wanita"],
+    "image": "https://images.pexels.com/photos/880460/pexels-photo-880460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 27,
+    "name": "Trainers Couple",
+    "onSale": false,
+    "tags": ["Sneakers", "Pria", "Wanita"],
+    "image": "https://images.pexels.com/photos/1021145/pexels-photo-1021145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 28,
+    "name": "Loafers",
+    "onSale": true,
+    "tags": ["Sneakers", "Pria", "Wanita"],
+    "image": "https://images.pexels.com/photos/10944886/pexels-photo-10944886.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 29,
+    "name": "Thigh High Boots",
+    "onSale": false,
+    "tags": ["Sneakers", "Pria", "Wanita"],
+    "image": "https://images.pexels.com/photos/1040384/pexels-photo-1040384.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 30,
+    "name": "Mary Janes",
+    "onSale": false,
+    "tags": ["Sneakers", "Pria", "Wanita"],
+    "image": "https://images.pexels.com/photos/11845497/pexels-photo-11845497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 31,
+    "name": "Spool Heels",
+    "onSale": false,
+    "tags": ["Sneakers", "Pria", "Wanita"],
+    "image": "https://images.pexels.com/photos/1524145/pexels-photo-1524145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 32,
+    "name": "Platform",
+    "onSale": false,
+    "tags": ["Sneakers", "Pria", "Wanita"],
+    "image": "https://images.pexels.com/photos/1374910/pexels-photo-1374910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 33,
+    "name": "Peep-Toe Heels",
+    "onSale": false,
+    "tags": ["Sneakers", "Pria", "Wanita"],
+    "image": "https://images.pexels.com/photos/134064/pexels-photo-134064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 34,
+    "name": "Mules",
+    "onSale": false,
+    "tags": ["Sneakers", "Pria", "Wanita"],
+    "image": "https://images.pexels.com/photos/7251920/pexels-photo-7251920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 35,
+    "name": "Espadrille",
+    "onSale": false,
+    "tags": ["Sneakers", "Pria", "Wanita"],
+    "image": "https://images.pexels.com/photos/137603/pexels-photo-137603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  }
+  
+]

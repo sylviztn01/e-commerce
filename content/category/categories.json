@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Sneakers",
+    "image": "https://images.pexels.com/photos/6540980/pexels-photo-6540980.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "id": 2,
+    "name": "Heels",
+    "image": "https://images.pexels.com/photos/36372/pexels-photo-36372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "id": 3,
+    "name": "Boots",
+    "image": "https://images.pexels.com/photos/1501210/pexels-photo-1501210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  }
+
+]
